@@ -1,11 +1,11 @@
 <h1 align="center">UWS Ultrasonic Wind Sensors</h1>
 <h3 align="center">Remote wind sensors using ultrasonic sound to captuer wind speed and direction</h3>
 
-- 🦧 Backend **backend**
+- 🦧 **Backend**
 
-- 🐞 Embedded **wind sensor**
+- 🐞 **Embedded wind sensor**
 
-- 🦧 Frontend **frontend**
+- 🐥 **Frontend**
 
 
 
