@@ -1,13 +1,13 @@
 <h1 align="center">UWS Ultrasonic Wind Sensors</h1>
 <h3 align="center">Remote wind sensors using ultrasonic sound to captuer wind speed and direction</h3>
 
-- 🦧 **Backend**
+- 🦧 [**Backend**](https://github.com/sonic-wind-sensors/backend/)
 
-- 🐞 **Embedded wind sensor**
+- 🐞 [**Embedded wind sensor**](https://github.com/sonic-wind-sensors/sonic-sensor)
 
-- 🐥 **Frontend**
+- 🐥 [**Frontend**]()
 
-
+- 🐳 [**Documentation**](https://github.com/sonic-wind-sensors/documentation)
 
 <h3 align="left">Languages and Tools:</h3>
 
