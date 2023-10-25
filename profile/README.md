@@ -5,7 +5,7 @@
 
 - 🐞 [**Embedded wind sensor**](https://github.com/sonic-wind-sensors/sonic-sensor)
 
-- 🐥 [**Frontend**]()
+- 🐥 [**Frontend**](https://github.com/sonic-wind-sensors/frontend)
 
 - 🐳 [**Documentation**](https://github.com/sonic-wind-sensors/documentation)
 
